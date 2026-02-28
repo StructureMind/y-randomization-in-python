@@ -1,5 +1,5 @@
 # y-randomization-in-python
-Y-randomization pipeline built in Python with prompt-engineering based workflow and extensive debugging. 
+Iteratively developed Python solution: prototyped, debugged, and optimized for reproducibility and reliability. 
 ## Overview: 
 This repository contains a Y-randomization pipeline implemented for a project. The project focused on QSAR modelling of a specific drug. Y-randomization was performed to assess whether model performance was due to real-SAR or random correlations and to determine its significance. 
 ## Objective: 
